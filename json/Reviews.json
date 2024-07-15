@@ -1,0 +1,457 @@
+[
+	{
+		"hotelName": "Hotel Roma 7",
+		"city": "Roma",
+		"reviewer": "lorenzo",
+		"rate": 4,
+		"ratings": {
+			"cleaning": 4.0,
+			"position": 3.0,
+			"services": 4.0,
+			"quality": 4.0
+		},
+		"dateTime": "2024-06-16T18:53:31.482585600"
+	},
+	{
+		"hotelName": "Hotel Napoli 7",
+		"city": "Napoli",
+		"reviewer": "lorenzo",
+		"rate": 3,
+		"ratings": {
+			"cleaning": 3.0,
+			"position": 4.0,
+			"services": 3.0,
+			"quality": 2.0
+		},
+		"dateTime": "2024-06-23T17:59:35.813175200"
+	},
+	{
+		"hotelName": "Hotel Napoli 6",
+		"city": "Napoli",
+		"reviewer": "lorenzo",
+		"rate": 3,
+		"ratings": {
+			"cleaning": 3.0,
+			"position": 4.0,
+			"services": 3.0,
+			"quality": 4.0
+		},
+		"dateTime": "2024-06-23T18:11:15.462984"
+	},
+	{
+		"hotelName": "Hotel Campobasso 8",
+		"city": "Campobasso",
+		"reviewer": "lorenzo",
+		"rate": 5,
+		"ratings": {
+			"cleaning": 4.0,
+			"position": 5.0,
+			"services": 5.0,
+			"quality": 4.0
+		},
+		"dateTime": "2024-06-24T15:58:32.306449800"
+	},
+	{
+		"hotelName": "Hotel Roma 2",
+		"city": "Roma",
+		"reviewer": "lorenzo",
+		"rate": 3,
+		"ratings": {
+			"cleaning": 2.0,
+			"position": 3.0,
+			"services": 3.0,
+			"quality": 3.0
+		},
+		"dateTime": "2024-06-16T18:49:17.658177800"
+	},
+	{
+		"hotelName": "Hotel Torino 3",
+		"city": "Torino",
+		"reviewer": "lorenzo",
+		"rate": 1,
+		"ratings": {
+			"cleaning": 2.0,
+			"position": 3.0,
+			"services": 1.0,
+			"quality": 1.0
+		},
+		"dateTime": "2024-06-17T00:41:45.522152300"
+	},
+	{
+		"hotelName": "Hotel Torino 3",
+		"city": "Torino",
+		"reviewer": "lorenzo",
+		"rate": 4,
+		"ratings": {
+			"cleaning": 4.0,
+			"position": 3.0,
+			"services": 4.0,
+			"quality": 3.0
+		},
+		"dateTime": "2024-06-17T00:44:02.091227700"
+	},
+	{
+		"hotelName": "Hotel Torino 3",
+		"city": "Torino",
+		"reviewer": "lorenzo",
+		"rate": 5,
+		"ratings": {
+			"cleaning": 5.0,
+			"position": 5.0,
+			"services": 5.0,
+			"quality": 5.0
+		},
+		"dateTime": "2024-06-23T18:07:32.926352500"
+	},
+	{
+		"hotelName": "Hotel Firenze 3",
+		"city": "Firenze",
+		"reviewer": "lorenzo",
+		"rate": 3,
+		"ratings": {
+			"cleaning": 3.0,
+			"position": 3.0,
+			"services": 3.0,
+			"quality": 3.0
+		},
+		"dateTime": "2024-06-17T00:55:52.329420300"
+	},
+	{
+		"hotelName": "Hotel Firenze 3",
+		"city": "Firenze",
+		"reviewer": "lorenzo",
+		"rate": 4,
+		"ratings": {
+			"cleaning": 4.0,
+			"position": 3.0,
+			"services": 4.0,
+			"quality": 4.0
+		},
+		"dateTime": "2024-06-17T11:10:28.462804900"
+	},
+	{
+		"hotelName": "Hotel Firenze 3",
+		"city": "Firenze",
+		"reviewer": "lorenzo",
+		"rate": 4,
+		"ratings": {
+			"cleaning": 4.0,
+			"position": 3.0,
+			"services": 4.0,
+			"quality": 4.0
+		},
+		"dateTime": "2024-06-17T11:10:53.887231900"
+	},
+	{
+		"hotelName": "Hotel Firenze 3",
+		"city": "Firenze",
+		"reviewer": "lorenzo",
+		"rate": 4,
+		"ratings": {
+			"cleaning": 4.0,
+			"position": 3.0,
+			"services": 4.0,
+			"quality": 4.0
+		},
+		"dateTime": "2024-06-17T11:11:35.486644800"
+	},
+	{
+		"hotelName": "Hotel Firenze 3",
+		"city": "Firenze",
+		"reviewer": "lorenzo",
+		"rate": 5,
+		"ratings": {
+			"cleaning": 4.0,
+			"position": 3.0,
+			"services": 5.0,
+			"quality": 5.0
+		},
+		"dateTime": "2024-06-17T11:12:13.823116600"
+	},
+	{
+		"hotelName": "Hotel Firenze 3",
+		"city": "Firenze",
+		"reviewer": "vale_",
+		"rate": 5,
+		"ratings": {
+			"cleaning": 5.0,
+			"position": 4.0,
+			"services": 5.0,
+			"quality": 5.0
+		},
+		"dateTime": "2024-06-17T11:13:32.095040700"
+	},
+	{
+		"hotelName": "Hotel Pisa 1",
+		"city": "Pisa",
+		"reviewer": "lorenzo",
+		"rate": 2,
+		"ratings": {
+			"cleaning": 3.0,
+			"position": 2.0,
+			"services": 3.0,
+			"quality": 2.0
+		},
+		"dateTime": "2024-06-17T11:32:17.220800200"
+	},
+	{
+		"hotelName": "Hotel Firenze 2",
+		"city": "Firenze",
+		"reviewer": "lorenzo",
+		"rate": 1,
+		"ratings": {
+			"cleaning": 2.0,
+			"position": 2.0,
+			"services": 2.0,
+			"quality": 1.0
+		},
+		"dateTime": "2024-06-17T00:54:51.603612"
+	},
+	{
+		"hotelName": "Hotel Campobasso 4",
+		"city": "Campobasso",
+		"reviewer": "vale_",
+		"rate": 3,
+		"ratings": {
+			"cleaning": 2.0,
+			"position": 4.0,
+			"services": 4.0,
+			"quality": 3.0
+		},
+		"dateTime": "2024-06-24T12:21:45.035109900"
+	},
+	{
+		"hotelName": "Hotel Milano 3",
+		"city": "Milano",
+		"reviewer": "vale_",
+		"rate": 4,
+		"ratings": {
+			"cleaning": 4.0,
+			"position": 5.0,
+			"services": 5.0,
+			"quality": 4.0
+		},
+		"dateTime": "2024-06-16T18:55:23.138545900"
+	},
+	{
+		"hotelName": "Hotel Milano 1",
+		"city": "Milano",
+		"reviewer": "vale_",
+		"rate": 2,
+		"ratings": {
+			"cleaning": 2.0,
+			"position": 2.0,
+			"services": 2.0,
+			"quality": 2.0
+		},
+		"dateTime": "2024-06-16T18:56:48.434519700"
+	},
+	{
+		"hotelName": "Hotel Milano 2",
+		"city": "Milano",
+		"reviewer": "lorenzo",
+		"rate": 3,
+		"ratings": {
+			"cleaning": 4.0,
+			"position": 3.0,
+			"services": 3.0,
+			"quality": 4.0
+		},
+		"dateTime": "2024-06-16T18:59:31.593943400"
+	},
+	{
+		"hotelName": "Hotel Campobasso 10",
+		"city": "Campobasso",
+		"reviewer": "lorenzo",
+		"rate": 1,
+		"ratings": {
+			"cleaning": 2.0,
+			"position": 1.0,
+			"services": 2.0,
+			"quality": 1.0
+		},
+		"dateTime": "2024-06-17T11:46:06.453264600"
+	},
+	{
+		"hotelName": "Hotel Milano 5",
+		"city": "Milano",
+		"reviewer": "vale_",
+		"rate": 1,
+		"ratings": {
+			"cleaning": 1.0,
+			"position": 1.0,
+			"services": 1.0,
+			"quality": 1.0
+		},
+		"dateTime": "2024-06-16T18:51:51.803681700"
+	},
+	{
+		"hotelName": "Hotel Milano 4",
+		"city": "Milano",
+		"reviewer": "lorenzo",
+		"rate": 2,
+		"ratings": {
+			"cleaning": 2.0,
+			"position": 3.0,
+			"services": 3.0,
+			"quality": 2.0
+		},
+		"dateTime": "2024-06-16T18:48:21.247128800"
+	},
+	{
+		"hotelName": "Hotel Torino 9",
+		"city": "Torino",
+		"reviewer": "lorenzo",
+		"rate": 2,
+		"ratings": {
+			"cleaning": 2.0,
+			"position": 3.0,
+			"services": 1.0,
+			"quality": 2.0
+		},
+		"dateTime": "2024-06-23T18:06:15.869963"
+	},
+	{
+		"hotelName": "Hotel Firenze 9",
+		"city": "Firenze",
+		"reviewer": "vale_",
+		"rate": 2,
+		"ratings": {
+			"cleaning": 2.0,
+			"position": 3.0,
+			"services": 2.0,
+			"quality": 3.0
+		},
+		"dateTime": "2024-06-17T01:15:03.938483300"
+	},
+	{
+		"hotelName": "Hotel Firenze 9",
+		"city": "Firenze",
+		"reviewer": "vale_",
+		"rate": 2,
+		"ratings": {
+			"cleaning": 2.0,
+			"position": 3.0,
+			"services": 2.0,
+			"quality": 3.0
+		},
+		"dateTime": "2024-06-17T01:15:57.121783300"
+	},
+	{
+		"hotelName": "Hotel Torino 7",
+		"city": "Torino",
+		"reviewer": "lorenzo",
+		"rate": 5,
+		"ratings": {
+			"cleaning": 5.0,
+			"position": 5.0,
+			"services": 5.0,
+			"quality": 5.0
+		},
+		"dateTime": "2024-06-17T00:45:25.023005300"
+	},
+	{
+		"hotelName": "Hotel Udine 5",
+		"city": "Udine",
+		"reviewer": "lorenzo",
+		"rate": 5,
+		"ratings": {
+			"cleaning": 4.0,
+			"position": 5.0,
+			"services": 5.0,
+			"quality": 4.0
+		},
+		"dateTime": "2024-06-16T19:08:43.641408800"
+	},
+	{
+		"hotelName": "Hotel Pisa 2",
+		"city": "Pisa",
+		"reviewer": "vale_",
+		"rate": 4,
+		"ratings": {
+			"cleaning": 4.0,
+			"position": 3.0,
+			"services": 5.0,
+			"quality": 3.0
+		},
+		"dateTime": "2024-06-17T11:36:51.524256600"
+	},
+	{
+		"hotelName": "Hotel Napoli 3",
+		"city": "Napoli",
+		"reviewer": "lorenzo",
+		"rate": 4,
+		"ratings": {
+			"cleaning": 3.0,
+			"position": 4.0,
+			"services": 3.0,
+			"quality": 4.0
+		},
+		"dateTime": "2024-06-23T18:10:33.142824100"
+	},
+	{
+		"hotelName": "Hotel Palermo 8",
+		"city": "Palermo",
+		"reviewer": "lorenzo",
+		"rate": 2,
+		"ratings": {
+			"cleaning": 1.0,
+			"position": 2.0,
+			"services": 2.0,
+			"quality": 1.0
+		},
+		"dateTime": "2024-06-17T10:45:44.582343300"
+	},
+	{
+		"hotelName": "Hotel Palermo 10",
+		"city": "Palermo",
+		"reviewer": "lorenzo",
+		"rate": 3,
+		"ratings": {
+			"cleaning": 3.0,
+			"position": 3.0,
+			"services": 4.0,
+			"quality": 2.0
+		},
+		"dateTime": "2024-06-17T10:47:46.991100700"
+	},
+	{
+		"hotelName": "Hotel Firenze 7",
+		"city": "Firenze",
+		"reviewer": "lorenzo",
+		"rate": 5,
+		"ratings": {
+			"cleaning": 5.0,
+			"position": 5.0,
+			"services": 5.0,
+			"quality": 5.0
+		},
+		"dateTime": "2024-06-17T01:05:23.256654900"
+	},
+	{
+		"hotelName": "Hotel Udine 2",
+		"city": "Udine",
+		"reviewer": "lorenzo",
+		"rate": 4,
+		"ratings": {
+			"cleaning": 4.0,
+			"position": 3.0,
+			"services": 4.0,
+			"quality": 4.0
+		},
+		"dateTime": "2024-06-16T19:06:49.394533500"
+	},
+	{
+		"hotelName": "Hotel Udine 7",
+		"city": "Udine",
+		"reviewer": "vale_",
+		"rate": 1,
+		"ratings": {
+			"cleaning": 1.0,
+			"position": 1.0,
+			"services": 1.0,
+			"quality": 1.0
+		},
+		"dateTime": "2024-06-16T19:08:10.929641400"
+	}
+]

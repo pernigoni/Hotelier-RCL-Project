@@ -1,0 +1,23 @@
+[
+	{
+		"username": "vale_",
+		"salt": "U8dzakJFSH1xiJuD9fie/g==",
+		"hashedPassword": "X0PZ+XxF9B7hqEXMa09CQ6zMORWyXPQ3kO2zdgoPP9Y=",
+		"experienceLevel": 2,
+		"numReviews": 9
+	},
+	{
+		"username": "franco",
+		"salt": "7wLQjAZk7s2UkfLyawJAVA==",
+		"hashedPassword": "ljZQckVeUDkFGZPNXwajpV7aY/jqVYn6cx1foxaIrZg=",
+		"experienceLevel": 0,
+		"numReviews": 0
+	},
+	{
+		"username": "lorenzo",
+		"salt": "Dfu672ueCMbTPddph0fypw==",
+		"hashedPassword": "PZbPHLOPV6ZQb7WHhPZ4PQ6pJVeLGtPBfwjMrO7U0RA=",
+		"experienceLevel": 5,
+		"numReviews": 26
+	}
+]
